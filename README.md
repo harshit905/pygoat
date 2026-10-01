@@ -153,3 +153,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 Scan marker: 2026-10-01T11:29Z (CodeAnt upgrade-impact test run on a fork of the upstream repo).
+
+Scan marker: 2026-10-01T20:44Z (fresh commit for the test-environment rescan).
